@@ -1,5 +1,6 @@
 <?php
 // converter algarismos para escrita por extenso
+// Author: EliasPereirah (https://github.com/EliasPereirah)
 function units($v){
     $numbers = ['zero','um','dois','três','quatro','cinco','seis','sete','oito','nove','dez','onze','doze','treze','quartorze','quinze','dezesseis','dezessete','dezoito','dezenove'];
     $ex = $numbers[$v];
