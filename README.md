@@ -1,4 +1,4 @@
-# escrever-nome-por-extenso
+# escrever-numeros-por-extenso
 Script PHP capaz de escrever números por extenso
 
 
